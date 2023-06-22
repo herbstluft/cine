@@ -405,3 +405,9 @@
 	font-family: 'Metropolis', sans-serif;
 	i { display: block; font-size: 70%; text-transform: uppercase; font-weigh: 300; }
 }
+
+
+.fondo{
+  background-image: url("  https://images.unsplash.com/photo-1530645956250-c32934150328?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&");
+  background-size:inherit;
+}
