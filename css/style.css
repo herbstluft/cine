@@ -74,7 +74,7 @@
   align-items: flex-end;
   -webkit-align-items: flex-end;
   background: #343434 no-repeat center center / cover;
-  border-radius: 16px;
+  border-radius: 10px;
   overflow: hidden;
   position: relative;
   transition: all 0.4s ease-in-out;
@@ -243,7 +243,7 @@
     color: black; 
     font-weight:600; 
     border-radius: 10px; 
-    width: 40%; 
+    width: 50%; 
     height: 40px;
   }
   .view_movie:hover{
